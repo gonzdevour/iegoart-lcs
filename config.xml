@@ -117,7 +117,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
 	<plugin name="cordova-plugin-splashscreen" />
-	<plugin name="cordova-plugin-facebook4" spec="^2.3.0">
+	<plugin name="cordova-plugin-facebook4" spec="1.7.4">
         <variable name="APP_ID" value="1678767109016625" />
         <variable name="APP_NAME" value="Connect" />
 	</plugin>
