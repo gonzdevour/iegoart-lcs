@@ -113,6 +113,7 @@
 
 	<plugin name="cordova-custom-config" />
 	<plugin name="cordova-plugin-camera" />
+	<plugin name="cordova-plugin-device" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
