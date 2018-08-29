@@ -46,7 +46,7 @@
 		<splash src="www/Default@2x~ipad~comany.png"/>
 		<preference name="FadeSplashScreen" value="true"/>
 		<preference name="FadeSplashScreenDuration" value="500"/>
-		<resource-file src="GoogleService-Info.plist" target="resources/GoogleService-Info.plist" />
+		<resource-file src="GoogleService-Info.plist" />
 	</platform>
 	<!-- Android only -->
 	<platform name="android">
@@ -130,6 +130,7 @@
         <variable name="APP_ID" value="1678767109016625" />
         <variable name="APP_NAME" value="Connect" />
 	</plugin>
+	<plugin name="cordova-plugin-fcm" />
 	<plugin spec="https://github.com/gonzdevour/cordova-plugin-lcs.git" source="git" />
 
 	<engine name="ios" />
