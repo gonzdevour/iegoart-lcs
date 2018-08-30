@@ -112,7 +112,6 @@
 	<access origin="*" />
 
 	<plugin name="cordova-plugin-wkwebview-engine" />
-	<plugin name="cordova-plugin-splashscreen" />
 	
 	<engine name="ios" />
 	<engine name="android" />
