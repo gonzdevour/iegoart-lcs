@@ -110,8 +110,6 @@
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="phonegap-version" value="cli-7.1.0" />
 	<access origin="*" />
-
-	<plugin name="cordova-plugin-wkwebview-engine" />
 	
 	<engine name="ios" />
 	<engine name="android" />
