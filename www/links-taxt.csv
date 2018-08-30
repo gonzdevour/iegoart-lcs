@@ -18,7 +18,7 @@ index,id,roomid,roomname,author,subtitle,link,saved
 17,17,3,虛擬漫遊,龍祈澔,當下與過往交融的共時性 2018,https://www.taxt.tw/408453104828564.html,N
 18,18,1,互動體驗區,虹龍數位文創,HTML5動的著色器,https://www.taxt.tw/34425408452597620301.html,N
 19,19,1,互動體驗區,光碼看繪本創新計畫,<刺蝟弟弟>維他命繪本,https://www.taxt.tw/3217320182216293236226412.html,N
-20,20,0,入口,開幕啟動,開幕煙火,網站網址,N
+20,20,0,入口,開幕啟動,開幕煙火,http://playoneapps.com.tw/proj/FireworkTaxt/,N
 21,21,0,入口,入口1-1,展覽資訊,https://www.taxt.tw/23637352612083721475.html,N
 22,22,0,入口,入口1-1,抽獎活動,https://docs.google.com/forms/d/1flETxbinyrFraZYnE5y2hZsphMa154CzC-KYtWsgq8c/viewform?edit_requested=true,N
 23,23,0,入口,入口2-1,策展人論述-曾鈺涓,https://www.taxt.tw/31574236373221035542-263663743428051.html,N
@@ -27,13 +27,13 @@ index,id,roomid,roomname,author,subtitle,link,saved
 26,26,2,擁抱吧,展區子題2,擁抱吧,https://www.taxt.tw/257932526521543.html,N
 27,27,3,虛擬漫遊,展區子題3,虛擬漫遊,https://www.taxt.tw/34395258362845936938.html,N
 28,28,4,另一個我,展區子題4,另一個我,https://www.taxt.tw/21478199682049125105.html,N
-29,31,1,互動體驗區,維他命繪本1,維他命繪本動畫橋段1,youtube,N
-30,32,1,互動體驗區,維他命繪本2,維他命繪本動畫橋段2,youtube,N
-31,33,1,互動體驗區,維他命繪本3,維他命繪本動畫橋段3,youtube,N
-32,34,1,互動體驗區,維他命繪本4,維他命繪本動畫橋段4,youtube,N
-33,35,1,互動體驗區,維他命繪本5,維他命繪本動畫橋段5,youtube,N
-34,36,1,互動體驗區,維他命繪本6,維他命繪本動畫橋段6,youtube,N
-35,37,1,互動體驗區,維他命繪本7,維他命繪本動畫橋段7,youtube,N
+29,31,1,互動體驗區,維他命繪本1,維他命繪本動畫橋段1,https://www.youtube.com/watch?v=vLlnWQ58YeA&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5,N
+30,32,1,互動體驗區,維他命繪本2,維他命繪本動畫橋段2,https://www.youtube.com/watch?v=q9hPZ2g-rfs&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5&index=2,N
+31,33,1,互動體驗區,維他命繪本3,維他命繪本動畫橋段3,https://www.youtube.com/watch?v=-2e-dGygPsU&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5&index=3,N
+32,34,1,互動體驗區,維他命繪本4,維他命繪本動畫橋段4,https://www.youtube.com/watch?v=Gb4jUe8qku0&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5&index=4,N
+33,35,1,互動體驗區,維他命繪本5,維他命繪本動畫橋段5,https://www.youtube.com/watch?v=HhZe9qbjPWI&index=5&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5,N
+34,36,1,互動體驗區,維他命繪本6,維他命繪本動畫橋段6,https://www.youtube.com/watch?v=_yWKWlFayUc&index=6&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5,N
+35,37,1,互動體驗區,維他命繪本7,維他命繪本動畫橋段7,https://www.youtube.com/watch?v=8Z2HsXLNy8w&index=7&list=PLWMvP_NbDRrwScm4oIfA3xpmjHKBySDI5,N
 36,41,0,入口,總說牆,總說牆,https://www.taxt.tw/3231735498.html,N
 37,42,null,null,null,null,null,N
 38,43,null,null,null,null,null,N
