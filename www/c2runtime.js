@@ -35151,7 +35151,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.rex_lunarray_Tween_mod.prototype.acts.SetParameter,
 	cr.behaviors.rex_lunarray_Tween_mod.prototype.acts.Force,
 	cr.plugins_.Rex_taffydb.prototype.exps.QueriedRowsCount,
-	cr.plugins_.Function.prototype.exps.Call,
 	cr.plugins_.Rex_taffydb.prototype.exps.QueriedRowsAsJSON,
 	cr.plugins_.Rex_taffydb.prototype.exps.ID2RowContent,
 	cr.plugins_.Rex_Hash.prototype.acts.StringToHashTable,
@@ -35179,6 +35178,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Rex_taffydb.prototype.acts.RemoveByRowID,
+	cr.plugins_.Function.prototype.exps.Call,
 	cr.plugins_.Rex_JSONBuider.prototype.acts.Clean,
 	cr.plugins_.Rex_JSONBuider.prototype.cnds.SetRoot,
 	cr.plugins_.Rex_JSONBuider.prototype.acts.AddValue,
@@ -35287,5 +35287,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.HTML_iFrame_Pode.prototype.acts.SetURL,
 	cr.plugins_.Rex_FrameMessage.prototype.cnds.OnFunction,
 	cr.plugins_.Rex_FrameMessage.prototype.exps.LastSender,
-	cr.plugins_.Rex_FrameMessage.prototype.exps.Param
+	cr.plugins_.Rex_FrameMessage.prototype.exps.Param,
+	cr.plugins_.Rex_Date.prototype.exps.Seconds
 ];};
