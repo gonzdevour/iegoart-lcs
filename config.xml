@@ -110,6 +110,7 @@
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="phonegap-version" value="cli-7.1.0" />
 	<access origin="*" />
+	<allow-navigation href="*" />
 
 	<plugin name="cordova-custom-config" />
 	<plugin name="cordova-plugin-camera" />
