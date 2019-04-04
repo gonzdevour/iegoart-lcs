@@ -46,7 +46,7 @@
 		<splash src="www/Default@2x~ipad~comany.png"/>
 		<preference name="FadeSplashScreen" value="true"/>
 		<preference name="FadeSplashScreenDuration" value="500"/>
-		<resource-file src="GoogleService-Info.plist" target="resources/GoogleService-Info.plist" />
+		<resource-file src="GoogleService-Info.plist" />
 	</platform>
 	<!-- Android only -->
 	<platform name="android">
@@ -110,13 +110,15 @@
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="phonegap-version" value="cli-7.1.0" />
 	<access origin="*" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
 
 	<plugin name="cordova-custom-config" />
 	<plugin name="cordova-plugin-camera" />
+	<plugin name="cordova-plugin-device" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
-	<plugin name="cordova-plugin-wkwebview-engine" />
 	<plugin name="cordova-plugin-splashscreen" />
 	<plugin name="cordova-plugin-dialogs" source="npm" />
 	<plugin name="cordova-plugin-password-dialog" source="npm" />
