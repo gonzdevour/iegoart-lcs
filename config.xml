@@ -108,7 +108,7 @@
 
 	<preference name="deployment-target" value="9.0" />
 	<preference name="android-minSdkVersion" value="21" />
-	<preference name="phonegap-version" value="cli-8.1.1" />
+	<preference name="phonegap-version" value="cli-7.1.0" />
 	<access origin="*" />
     <allow-navigation href="*" />
     <allow-intent href="*" />
