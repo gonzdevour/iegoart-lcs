@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.iegoart.lcs" version="1.1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.iegoart.lcs" version="1.1.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>光碼掃描</name>
 	<description>將Light Code光碼技術與商業、展演結合，運用光碼掃描App，把資訊導入行動裝置，亦透過互動，呈現不同於傳統的展演及商業模式。智慧商業、智慧導覽、智慧住宅、智慧城市，光碼技術皆可涵蓋其中，發展出無限可能。</description>
 	<author>playone</author>
@@ -96,7 +96,7 @@
     <string>需要使用您的相簿以儲存照片。</string>
 	</edit-config>
 	
-	<preference name="android-targetSdkVersion" value="26" />
+	<preference name="android-targetSdkVersion" value="28" />
 	<preference name="orientation" value="portrait" />
 	<preference name="fullscreen" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
@@ -107,7 +107,7 @@
 
 
 	<preference name="deployment-target" value="9.0" />
-	<preference name="android-minSdkVersion" value="21" />
+	<preference name="android-minSdkVersion" value="28" />
 	<preference name="phonegap-version" value="cli-7.1.0" />
 	<access origin="*" />
     <allow-navigation href="*" />
