@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.iegoart.lcs" version="1.1.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.iegoart.lcs" version="1.1.8" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>光碼掃描</name>
 	<description>將Light Code光碼技術與商業、展演結合，運用光碼掃描App，把資訊導入行動裝置，亦透過互動，呈現不同於傳統的展演及商業模式。智慧商業、智慧導覽、智慧住宅、智慧城市，光碼技術皆可涵蓋其中，發展出無限可能。</description>
 	<author>playone</author>
@@ -61,6 +61,8 @@
 		<preference name="SplashMaintainAspectRatio" value="true" />
 		<preference name="SplashShowOnlyFirstTime" value="false" />
 		<resource-file src="google-services.json" target="google-services.json" />
+		<custom-preference name="android-manifest/application/@android:allowBackup" value="false" />
+		<custom-preference name="android-manifest/application/@android:fullBackupContent" value="false" />
 	</platform>
 	<!-- Common -->
 	<preference name="ShowSplashScreenSpinner" value="false"/>
@@ -128,6 +130,7 @@
 	<plugin name="cordova-plugin-network-information" source="npm" />
 	<plugin name="cordova-plugin-local-notification" source="npm" />
 	<plugin name="cordova-plugin-native-spinner" source="npm" />
+	<plugin name="cordova-plugin-market-ibby" source="npm" />
 	<plugin name="cordova-plugin-facebook4" spec="1.7.4">
         <variable name="APP_ID" value="1678767109016625" />
         <variable name="APP_NAME" value="Connect" />
